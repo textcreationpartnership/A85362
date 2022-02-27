@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from the assembly in Scotland, now sitting in consultation, concerning their ecclesiasticall government in the church. Exhibited to this Parliament in England, concerning this present reformation in England, with their heartie desires this ensuing treatise may be forthwith enacted; for the satisfaction of all good subjects, here or elsewhere. From Edenburgh, August 4. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85362</idno>
+            <idno type="STC">Wing G1069</idno>
+            <idno type="STC">Thomason E109_37</idno>
+            <idno type="STC">ESTC R8692</idno>
+            <idno type="EEBO-CITATION">99873373</idno>
+            <idno type="PROQUEST">99873373</idno>
+            <idno type="VID">125841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125841)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from the assembly in Scotland, now sitting in consultation, concerning their ecclesiasticall government in the church. Exhibited to this Parliament in England, concerning this present reformation in England, with their heartie desires this ensuing treatise may be forthwith enacted; for the satisfaction of all good subjects, here or elsewhere. From Edenburgh, August 4. 1642.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2] 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 10th".</note>
+                  <note>Printers device (McK. 268-272 var.) on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125841:1" rendition="simple:additions"/>
+            <p>GOOD NEWES From the Aſſembly in Scotland, now ſitting in conſul<g ref="char:EOLhyphen"/>tation, concerning their Eccleſiaſti<g ref="char:EOLhyphen"/>call Government in the CHURCH.</p>
+            <p>Exhibited to this Parliament in <hi>England,</hi> concerning this preſent Reformation in <hi>England,</hi> with their heartie deſires this en<g ref="char:EOLhyphen"/>ſuing Treatiſe may be forthwith enacted; for the ſatisfaction of all good Subjects, here or elſewhere.</p>
+            <p>From <hi>Edenburgh,</hi> Auguſt 4. 1642 <add>Au<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st 10<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's device, a framed fleur-de-lis with a plain background</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> printed for <hi>J. W.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125841:2"/>
+            <pb n="1" facs="tcp:125841:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>device consisting of an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>Good Newes from the Aſſembly in <hi>Scotland,</hi> now ſitting in conſultation, concerning their Eccleſia<g ref="char:EOLhyphen"/>ſticall Government.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Confeſſion of Faith, and Refor<g ref="char:EOLhyphen"/>mation of the Kirk of Scotland, in doctrine, diſcipline, and worſhip, ſo far as the Reformers did con<g ref="char:EOLhyphen"/>ceive and underſtand were regula<g ref="char:EOLhyphen"/>ted by the word of God, &amp; groun<g ref="char:EOLhyphen"/>ded upon Scripture, as is acknow<g ref="char:EOLhyphen"/>ledged by the Harmony of Confeſſions of the Refor<g ref="char:EOLhyphen"/>med Kirks, and by the teſtimony of the beſt and moſt eminent Divines, which have been in the Kirk of Eng<g ref="char:EOLhyphen"/>land, or in the Reformed Kirks at that time, and to this day, amidſt the greateſt deſolation, notwithſtanding the ambition and uſurpation of Prelates, no other Mi<g ref="char:EOLhyphen"/>niſters and Office-bearers have been acknowledged, or received by the Reformed Kirk of Scotland, but Pa<g ref="char:EOLhyphen"/>ſtours, Doctours, and Elders, with Deacons. Theſe
+<pb n="2" facs="tcp:125841:3"/> being warranted with Scripture, and being ſufficient for all the neceſſarie uſes of the Kirk of Scotland; yet ſo, that the Prince and Civill Magiſtrate, hold his owne eminent place and Civill Power, for the conſo<g ref="char:EOLunhyphen"/>lation and purgation of Religion.</p>
+            <p>No man here were, were he never ſo wiſe and pious above others, or doth he never ſo much abrogate autho<g ref="char:EOLhyphen"/>ritie unto himſelfe, hath the reines of Kirk govern<g ref="char:EOLhyphen"/>ment in his hands, to diſpoſe or doe what ſeemeth good in his owne eyes; but all matters are adviſed and de<g ref="char:EOLhyphen"/>termined by Common Conſent in the Conventions and Aſſemblies of the Kirk; which Aſſemblies were of foure ſorts and degrees, commonly deſigned by the names of Kirk-Seſſions, or Conſiſtories, Presbyteries, Provinciall Synods, and Generall, or Nationall Aſ<g ref="char:EOLhyphen"/>ſemblies.</p>
+            <p>The Kirk-Seſſions, or Conſiſtorie, doe conſiſt of one Miniſter at leaſt, approved for his learning, life, and skill in government; and of Elders, men of beſt knowledge, and holieſt of life in the pariſh, ſo many in number as the proportion of the Congregation doth require, who are choſen with the conſent of the peo<g ref="char:EOLhyphen"/>ple, and in the preſence of the people ſolemnly admit<g ref="char:EOLhyphen"/>ted to their charge: Theſe convene weekly for orde<g ref="char:EOLhyphen"/>rin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch matters of the worſhip of God, as are pro<g ref="char:EOLhyphen"/>per for that pariſh; as what dayes of the week are me<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt for aſſembling to the publike worſhip, or ca<g ref="char:EOLhyphen"/>tec<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>zing, and what houres in the Lords day, before noone and after<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oone, are ſitteſt for the exerciſe of that d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what times the Communion ſhall be given, for conſulting of Delinquents in ſwearing, curling,
+<pb n="3" facs="tcp:125841:3"/> profanation of the Lords day, drunkenneſſe, fornica<g ref="char:EOLhyphen"/>tion: And for dilating greater offences, ſuch as here<g ref="char:EOLhyphen"/>ſie, ſuperſtition, adulterie, if any be ſuſpected: if there be any ſcandall within their bounds, that all Trangreſ<g ref="char:EOLhyphen"/>ſours may be brought to repentance, or ſeparated from the people of God, according to the Ordinances of Chriſt, and order of the Kirk. Here alſo the Deacons are preſent, to receive direction in their dutie.</p>
+            <p>Preſbytery or Claſſicall meeting doth conſiſt of par<g ref="char:EOLhyphen"/>ticular Kirks, in ſuch a circuit 12, 16, or 20. Or ſo many, as by conveniencie of the place, can weekly aſ<g ref="char:EOLhyphen"/>ſemble here, one elder of each pariſh appointed by the particular Kirk-Seſſion, and the whole Miniſters of theſe, doe meet where the Miniſters and others bee admitted to the Miniſtry, whom we call expectance, exerciſe their gifts by courſe in publike, the exerciſed or propheſie being ended, the Miniſter and Elders ſit downe, and after prayer and cenſure of the Doctrine, they uſe the power of Iuriſdiction, Ordination, Suſ<g ref="char:EOLhyphen"/>penſation, Deprivation, Viſitation of Kirks, tryals of the projects of Excommunication, deduced by the particular elderſhips and of direction to the Miniſters of the pariſh, to excommunicate if need be. Here the Scandalous faults of Miniſters in Doctrine or life, are declared, and all perſons of whatſoever qualitie diſo<g ref="char:EOLhyphen"/>bedient to their owne Miniſters and Elders, are with great authority cenſured, Provinciall Synods doe con<g ref="char:EOLhyphen"/>ſiſt of the whole Presbyteryes, ſhires, or provinces, ſo that the whole Kingdome is divided into Shires or Provinces in relation to thoſe Synods. Here all the Miniſters and one Elder from every pariſh doe meet
+<pb n="4" facs="tcp:125841:4"/> twice in the yeare, and after preaching and calling up<g ref="char:EOLhyphen"/>on the name of God by the Moderators of the prece<g ref="char:EOLhyphen"/>ding Synode: a new Moderator being choſen, they trie the Presbyteries by their Records, preſented by the Clerk of every Presbyterie what was obſcure or dif<g ref="char:EOLhyphen"/>ficult for the Presbyteries, or might concerne them all in common, is determined and ordained, and if any difficultie doe ariſe which doth not fall under ſome Kirk conſtitution, it is referred to the National Aſſem<g ref="char:EOLhyphen"/>blie: all matters are with ſuch deligence, expedited that each Miniſter may returne to his charge on the Lords day.</p>
+            <p>In the generall or nationall aſſembly, the Kings Majeſty in perſon, or Commiſſioner in his place uſeth to be preſent, who convene once in the yeare or oftener, <hi>pro re nata.</hi>
+            </p>
+            <p>It doth conſiſt of Miniſters and Elders from each Presbytery and regall Burrough.</p>
+            <p>After ſolemne Humiliation the firſt day of the Aſ<g ref="char:EOLhyphen"/>ſembly, one of the Miniſters is choſen by the voyces of the whole Aſſembly to moderate and precide in that Aſſembly.</p>
+            <p>The records of the Synode, are peruſed and tryed, Acts and conſtitutions of all the Churches, and a<g ref="char:EOLhyphen"/>greed upon with common conſent, and all mens doubts and ſcruples concerning them, are ſatiſfied to the full. If they be propounded <hi>Animo edificandi non tentandi,</hi> Appellations, Grievances, Petitions and Complaints, are examined and determined by this ſupreme and higheſt Kirks Iudicatory, and ſome Commiſſioners choſen to preſent grievances or Petitions agreed upon
+<pb n="5" facs="tcp:125841:4"/> in the Aſſembly to the Parliament, the King, the Councell of the Kingdome, or convention of the Eſtates.</p>
+            <p>In this authority ſubordination of Seſſions, Presby<g ref="char:EOLhyphen"/>teryes, provinciall Synodes and nationall Aſſemblies doe conſiſt, the Order, Beauty, the ſtrength of the Kirks of <hi>Scotland,</hi> comfortable to the Godly, both paſtors and profeſſors, terrible as an Army with Banners to Papiſts, be their places never ſo high, to all Hereticks, Schiſmaticks, hirelings and all ungodly men.</p>
+            <p>No ſcandalous fault of any perſon eſcapeth Cen<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>No hereſie or errors can ſooner be hatched, but it is preſently cruſhed by ſome of thoſe inferiour Aſſem<g ref="char:EOLhyphen"/>blies, or if it be kept on foot, or take ſtrength, it is quite ſuppreſſed by the nationall Aſſembly convening once in a yeare, which hath beene a mayne cauſe why ſo few ſects and errors in Doctrine and Worſhip have appeared in the Kirk of <hi>Scots</hi> for many yeares, and whereſoever thoſe Aſſemblies have place and liberty, the names of Hereſies and Sects have not almoſt been heard of.</p>
+            <p>In theſe particular Aſſemblies, the particular Here<g ref="char:EOLhyphen"/>ticks are not governed by the extrinſecall power of any one or many ſet over them, as in the Monarchicall go<g ref="char:EOLhyphen"/>vernment of prelates, but they are ruled and judged by themſelves, and their owne intrinſecall power, each member by the whole body in one orderly way. None of the whole communion of the faithfull being barred from the joynt and common government by thoſe
+<pb n="6" facs="tcp:125841:5"/> Aſſemblies, the gifts, the knowledge and zeale of all the members, eſpecially of the Miniſters, and ſtirred up, quickened and ſtrengthened, and holy emulation is excited by acquaintance, conference, and by perceiving the gifts one of another. And the beſt gifts are known for planting of Kirks and Colledges: whence it is that Miniſters returne from thoſe Aſſemblies aſhamed and humbled in themſelves, and furniſhed with freſh reſo<g ref="char:EOLhyphen"/>lutions for every paſtorall duty for the common bene<g ref="char:EOLhyphen"/>fit and edification of all the Kirks.</p>
+         </div>
+         <trailer>FJNIS.</trailer>
+      </body>
+   </text>
+</TEI>
